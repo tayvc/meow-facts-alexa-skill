@@ -1,0 +1,28 @@
+{
+    "name": "Custom Skill Name",
+    "url": "URL to client's website",
+    "invocation": "Invocation name of skill",
+    "smallImage": "URL to small image for card display",
+    "largeImage": "URL to large image for card display",
+    "amazonSkillId": "Unique Amazon skill ID",
+    "amazonEchoServiceDomain": "echo-api.amazon.com",
+    "amazonCacheFolder": "./amazon",
+    "amazonLogFolder": "./logs/error_log.log",
+    "metadata": "artist - song",
+    "randomizeStreams": "false",
+    "randomizePodcasts": "false",
+    "redirectToLive": null,
+    "autoPlay": null,
+    "welcomePrompt": "Welcome to the Meow Facts skill! <break time=\"1s\"/> Say tell me a fact to hear about cats.",
+
+}
+
+
+
+
+
+
+
+
+
+
