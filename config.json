@@ -1,7 +1,6 @@
 {
-    "name": "Custom Skill Name",
-    "url": "URL to client's website",
-    "invocation": "Invocation name of skill",
+    "name": "Meow Facts",
+    "invocation": "meow facts",
     "smallImage": "URL to small image for card display",
     "largeImage": "URL to large image for card display",
     "amazonSkillId": "Unique Amazon skill ID",
