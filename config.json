@@ -7,6 +7,7 @@
     "amazonEchoServiceDomain": "echo-api.amazon.com",
     "amazonCacheFolder": "./amazon",
     "amazonLogFolder": "./logs/error_log.log",
+    "apiLink": "https://catfact.ninja/fact",
     "welcomePrompt": "Welcome to the Meow Facts skill! <break time=\"1s\"/> Say tell me a fact to hear about cats.",
 
 }
